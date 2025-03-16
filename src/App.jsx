@@ -2,7 +2,7 @@
 import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./Home";
-import FileTest from "./components/FileTest";
+import FileTest from "./components/old/FileTest";
 
 
 export default function App() {
